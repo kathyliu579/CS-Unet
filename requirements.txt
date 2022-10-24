@@ -1,0 +1,16 @@
+numpy~=1.21.2
+tqdm~=4.63.1
+tensorboard
+tensorboardX~=2.5
+ml-collections
+medpy~=0.4.0
+SimpleITK~=2.1.1
+scipy~=1.8.0
+h5py~=3.6.0
+einops~=0.4.1
+timm~=0.5.4
+yacs~=0.1.8
+torchstat~=0.0.7
+pyyaml~=6.0
+hausdorff~=0.2.6
+torchvision~=0.8.2
