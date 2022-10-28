@@ -1,5 +1,5 @@
 # CS-Unet
-The codes for the work "Optimizing Vision Transformers for Medical Image Segmentation"(https://arxiv.org/...).
+The codes for the work "Optimizing Vision Transformers for Medical Image Segmentation"([https://arxiv.org/abs/2210.08066]).
 
 
 ## 1. Prepare data
@@ -33,8 +33,22 @@ sh my_test.sh
 
 ## Citation
 
-```bibtex
-....
+@misc{https://doi.org/10.48550/arxiv.2210.08066,
+  doi = {10.48550/ARXIV.2210.08066},
+  
+  url = {https://arxiv.org/abs/2210.08066},
+  
+  author = {Liu, Qianying and Kaul, Chaitanya and Wang, Jun and Anagnostopoulos, Christos and Murray-Smith, Roderick and Deligianni, Fani},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Optimizing Vision Transformers for Medical Image Segmentation},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution Share Alike 4.0 International}
 }
-```
+
 # CS-Unet
