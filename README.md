@@ -1,5 +1,5 @@
 # CS-Unet
-The codes for the work "Optimizing Vision Transformers for Medical Image Segmentation"([https://arxiv.org/abs/2210.08066]).
+The codes for the work "Optimizing Vision Transformers for Medical Image Segmentation"([https://arxiv.org/abs/2210.08066], which is accepted by ICASSP 2023.
 
 
 ## 1. Prepare data
