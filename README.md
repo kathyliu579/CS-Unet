@@ -1,5 +1,5 @@
 # CS-Unet
-The codes for the work "Optimizing Vision Transformers for Medical Image Segmentation"([https://arxiv.org/abs/2210.08066], which is accepted by ICASSP 2023.
+The codes for the work "Optimizing Vision Transformers for Medical Image Segmentation"([https://ieeexplore.ieee.org/abstract/document/10096379/footnotes#footnotes], which is accepted by ICASSP 2023.
 
 
 ## 1. Prepare data
@@ -32,23 +32,13 @@ sh my_test.sh
 * [SwinUnet](https://github.com/HuCaoFighting/Swin-Unet)
 
 ## Citation
-
-@misc{https://doi.org/10.48550/arxiv.2210.08066,
-  doi = {10.48550/ARXIV.2210.08066},
-  
-  url = {https://arxiv.org/abs/2210.08066},
-  
-  author = {Liu, Qianying and Kaul, Chaitanya and Wang, Jun and Anagnostopoulos, Christos and Murray-Smith, Roderick and Deligianni, Fani},
-  
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Optimizing Vision Transformers for Medical Image Segmentation},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution Share Alike 4.0 International}
+@inproceedings{liu2023optimizing,
+  title={Optimizing Vision Transformers for Medical Image Segmentation},
+  author={Liu, Qianying and Kaul, Chaitanya and Wang, Jun and Anagnostopoulos, Christos and Murray-Smith, Roderick and Deligianni, Fani},
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
 }
 
 # CS-Unet
