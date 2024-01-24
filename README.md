@@ -1,4 +1,4 @@
-# CS-Unet
+# CS-Unet (Optimizing Vision Transformers for Medical Image Segmentation)
 The codes for the work "Optimizing Vision Transformers for Medical Image Segmentation"[https://ieeexplore.ieee.org/abstract/document/10096379/footnotes#footnotes], which is accepted by ICASSP 2023.
 
 
