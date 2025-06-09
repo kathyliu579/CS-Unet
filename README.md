@@ -27,7 +27,9 @@ sh my_test.sh
 ```
 
 ## References
-* [MCSC](https://github.com/kathyliu579/MCSC)
+* [TransUnet](https://github.com/Beckschen/TransUNet)
+* [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
+* [SwinUnet](https://github.com/HuCaoFighting/Swin-Unet)
 
 ## Citation
 @inproceedings{liu2023optimizing,
