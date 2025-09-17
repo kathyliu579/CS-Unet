@@ -1,5 +1,7 @@
 # CS-Unet (Optimizing Vision Transformers for Medical Image Segmentation)
 The codes for the work "Optimizing Vision Transformers for Medical Image Segmentation"[https://ieeexplore.ieee.org/abstract/document/10096379], which is accepted by ICASSP 2023.
+This work continues to be improved through comparative learning, and you can refer to:
+* [MCSC](https://github.com/kathyliu579/MCSC) which published by BMVC 2023
 
 
 ## 1. Prepare data
